@@ -11,7 +11,9 @@
 </div>
 <br>
 <div align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=zakariagatter&hide_border=true&show_icons=true&theme=algolia" />
-  <img alt="Herokuapp" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariagatter&hide_border=true&theme=algolia" />
+  <div>
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=zakariagatter&hide_border=true&show_icons=true&theme=algolia" />
+    <img alt="Herokuapp" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariagatter&hide_border=true&theme=algolia" />
+  </div>
   <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=zakariagatter&no-frame=true&theme=algolia&margin-w=15&margin-h=15&column=6" />
 </div>
