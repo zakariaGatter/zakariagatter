@@ -6,9 +6,11 @@
 
 Im just a guy want to prove that **Bash** can do it , i have been using linux for **7 Years Now**
 
-<img alt="zakariaGatter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zakariagatter&show_icons=true&hide_border=true&title_color=39a3c6&icon_color=20dfdf&bg_color=121212&text_color=d7f4f4" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariagatter&hide_border=true&layout=compact&title_color=39A3C6&icon_color=20DFDF&bg_color=121212&text_color=D7F4F4)
+<div align="center">
+  <img alt="zakariaGatter's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zakariagatter&show_icons=true&theme=algolia" />
+  <img alt="zakariaGatter's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariagatter&hide_border=true&theme=algolia" />
+  <img alt="zakariaGatter's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=zakariagatter&theme=algolia&margin-w=15&margin-h=15&column=6" />
+</div>
 
 </dir>
 
